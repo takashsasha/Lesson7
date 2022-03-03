@@ -1,0 +1,5 @@
+C:\Users\RiiFU\Desktop\Patch\bin\Debug\Lesson7.exe
+C:\Users\RiiFU\Desktop\Patch\bin\Debug\Lesson7.pdb
+C:\Users\RiiFU\Desktop\Patch\obj\Debug\Patch.csproj.CoreCompileInputs.cache
+C:\Users\RiiFU\Desktop\Patch\obj\Debug\Lesson7.exe
+C:\Users\RiiFU\Desktop\Patch\obj\Debug\Lesson7.pdb
